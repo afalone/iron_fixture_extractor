@@ -1,4 +1,4 @@
-IMPORTANT: This particular repo is no longer maintained. If you are looking for usage in a Rails 4.x project, please look at the [downstream forks of this project](https://github.com/joegoggins/iron_fixture_extractor/network).  Also, if there is anyone out there who would like to take on the ownership/maintainer role for this tool, please ping us via a GitHub issue--it would be way cooler to have one authoritative copy of the tool rather than a bunch of forks.
+IMPORTANT: This particular repo is no longer maintained, the [official release is now here](https://github.com/umn-asr/iron_fixture_extractor)
 
 # About Iron Fixture Extractor
 
